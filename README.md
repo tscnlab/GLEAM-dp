@@ -2,7 +2,7 @@
 
 [visualdiet.org](https://www.visualdiet.org)
 
-**Gathered Light Exposure and Auxiliary Measurements - Data Package** (GLEAM DP) is a community-developed data exchange format for light and visual experience data.
+**Gathered Light Exposure and Auxiliary Measurements - Data Package** (GLEAM DP) is a community-developed data exchange format for optical radiation and visual experience data.
 
 ## Usage
 
