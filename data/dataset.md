@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Participant Schema
+title: Dataset Schema
 ---
 
-<h2>Participant Schema</h2>
+<h2>Dataset Schema</h2>
 
-{% assign schema = site.data["participant.schema.json"] %}
+{% assign schema = site.data["dataset.schema.json"] %}
 
 <ul>
   {% for field in schema.fields %}
